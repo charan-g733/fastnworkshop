@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: charan-g733.github.io/fastnworkshop
+favicon: /-/charan-g733.github.io/fastnworkshop/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: charan-g733.github.io/fastnworkshop/FASTN/ds
+-- fastn.auto-import: charan-g733.github.io/fastnworkshop/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
